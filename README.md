@@ -40,6 +40,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/SussMan-Dev/SussMan-Dev/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/SussMan-Dev/SussMan-Dev/output/snake.svg" alt="Snake animation" />
 
