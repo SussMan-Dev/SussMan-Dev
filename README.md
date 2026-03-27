@@ -1,11 +1,5 @@
 <h2 align="left">Hi ! My name is Đức Huy and I'm a Backend Developer from Vietnam </h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SussMan-Dev&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SussMan-Dev&layout=compact&theme=dracula" height="150" />
-</div>
 
 ###
 
