@@ -2,9 +2,6 @@
 
 
 ###
-
-<img align="right" height="180" src="https://media1.tenor.com/m/Dm0VZqFLJigAAAAC/phrolova-wuwa.gif" />
-
 ###
 
 <h3 align="left">🛠️ Skills</h3>
