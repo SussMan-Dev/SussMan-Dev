@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bùi Đức Huy and I'm a Backend Developer, from Vietnam</h2>
+<h2 align="left">Hi ! My name is Đức Huy and I'm a Backend Developer from Vietnam </h2>
 
 ###
 
