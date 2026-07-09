@@ -6,21 +6,17 @@ I primarily work within the JavaScript ecosystem because it enables me to develo
 
 I enjoy writing clean, maintainable code, continuously improving my technical skills, and keeping up with modern software development practices.
 
----
-
 # Technical Skills
 
 My primary frontend experience is with **React**, where I build responsive and interactive user interfaces. On the backend, I develop RESTful APIs and server-side applications using **Express.js** and **NestJS**.
 
 I have experience working with both relational and NoSQL databases, including **MySQL**, **MongoDB**, **Firebase**, and **Redis**. I have also deployed applications using platforms and technologies such as **Vercel** and **Kubernetes**, while using **Git** and **GitHub** for version control and collaboration.
 
----
 
 # Current Focus
 
 I am currently strengthening my knowledge of backend engineering, software architecture, system design, and cloud-native technologies. My goal is to write software that is scalable, maintainable, and aligned with industry best practices.
 
----
 
 # Career Objective
 
